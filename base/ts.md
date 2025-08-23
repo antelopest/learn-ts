@@ -5,7 +5,7 @@
 ### Введение в TypeScript
 
 1. [Что такое TypeScript и его преимущества над JavaScript](01.%20Основы%20TypeScript/01.%20Что%20такое%20TypeScript%3F.md)
-2. Установка и настройка окружения (Node.js, tsc, VS Code)
+2. Установка и настройка окружения (Node.js, tsc, VS Code, WebStorm)
 3. Компиляция TypeScript в JavaScript (tsconfig.json)
 
 ### Базовые типы
