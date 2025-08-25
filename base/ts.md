@@ -11,7 +11,7 @@
 ### Базовые типы
 
 1. [Примитивные типы: string, number, boolean, null, undefined, bigint, symbol](01.%20Основы%20TypeScript/02.%20Базовые%20типы/01.%20Примитивные%20типы.md)
-2. Тип any, unknown, never
+2. [Тип any, unknown, never](01.%20Основы%20TypeScript/02.%20Базовые%20типы/02.%20Тип%20any,%20unknown,%20never.md)
 3. Типы массивов: string[], Array<string>
 4. Типы объектов: { key: value }
 
