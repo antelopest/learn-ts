@@ -41,7 +41,7 @@
 ### Основы работы с модулями
 
 1. Импорт и экспорт типов (import type, export type)
-2. Использование ES Modules с TypesScript
+2. Использование ES Modules с TypeScript
 
 ## Средний уровень
 
